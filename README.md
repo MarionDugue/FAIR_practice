@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14861096.svg)](https://doi.org/10.5281/zenodo.14861096)
 
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MarionDugue/FAIR_practice/main?urlpath=%2Fdoc%2Ftree%2F01_data_availbility_search_copy.ipynb)
 
 # Sentinel-1 Data Retrieval and Analysis
 
